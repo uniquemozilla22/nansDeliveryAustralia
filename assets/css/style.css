@@ -3244,8 +3244,7 @@ a.default-btn {
       height: 400px; } }
 
 .single-slider-img4 {
-  position: relative;
-  margin: 0 -77px 0 50px; }
+  position: relative; }
   @media only screen and (min-width: 1200px) and (max-width: 1365px) {
     .single-slider-img4 {
       margin: 0 0px 0 0px; } }
